@@ -27,3 +27,6 @@ _site/
 # Bundle
 .bundle
 bin
+_site
+.sass-cache
+.jekyll-metadata
